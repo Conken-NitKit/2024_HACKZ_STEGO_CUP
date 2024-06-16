@@ -2,6 +2,7 @@ using UnityEngine;
 using DG.Tweening;
 using Unity.VisualScripting;
 
+
 public class Move_floor_in_switch : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -16,7 +17,6 @@ public class Move_floor_in_switch : MonoBehaviour
     {
         Startposition = GetComponent<Transform>();
         MoveFloor = GetComponent<Rigidbody2D>();
-        
     }
 
     // Update is called once per frame
