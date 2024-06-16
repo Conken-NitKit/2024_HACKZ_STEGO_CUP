@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec8cb1e7ca8bc984e8fd59b1a2d84eb7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103349
+  packageName: Sunny Land
+  packageVersion: 1.1
+  assetPath: Assets/SunnyLand Artwork/Sprites/player/climb/player-climb-1.controller
+  uploadId: 540939

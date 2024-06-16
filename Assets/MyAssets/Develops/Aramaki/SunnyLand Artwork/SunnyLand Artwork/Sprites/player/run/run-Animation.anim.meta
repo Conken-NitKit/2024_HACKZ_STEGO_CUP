@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed20657235346fc40a5445b9c75a5e5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103349
+  packageName: Sunny Land
+  packageVersion: 1.1
+  assetPath: Assets/SunnyLand Artwork/Sprites/player/run/run-Animation.anim
+  uploadId: 540939

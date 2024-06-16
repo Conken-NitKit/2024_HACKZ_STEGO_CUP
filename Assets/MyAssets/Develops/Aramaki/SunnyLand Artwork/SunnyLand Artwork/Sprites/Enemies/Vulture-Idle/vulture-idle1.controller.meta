@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9bca6ff527839f644bd69fa4669d4f1a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103349
+  packageName: Sunny Land
+  packageVersion: 1.1
+  assetPath: Assets/SunnyLand Artwork/Sprites/Enemies/Vulture-Idle/vulture-idle1.controller
+  uploadId: 540939

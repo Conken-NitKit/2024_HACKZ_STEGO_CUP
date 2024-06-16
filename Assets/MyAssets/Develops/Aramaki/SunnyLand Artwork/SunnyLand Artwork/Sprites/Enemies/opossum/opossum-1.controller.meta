@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56d4445add945b44dbb8ac0771ec072b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103349
+  packageName: Sunny Land
+  packageVersion: 1.1
+  assetPath: Assets/SunnyLand Artwork/Sprites/Enemies/opossum/opossum-1.controller
+  uploadId: 540939
