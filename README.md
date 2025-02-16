@@ -10,6 +10,9 @@
 
 魔物の素材を入手して、合成！自分だけの最強のスライムを作っちゃおう！
 
+### 動画
+https://youtu.be/wggBCdxaLlU
+
 ### 企画書
 ![1_0](https://github.com/Conken-NitKit/2024_HACKZ_STEGO_CUP/assets/83874472/ca72b8d8-38a0-46e2-a5c7-429d4b2a24f3)
 ![2_0](https://github.com/Conken-NitKit/2024_HACKZ_STEGO_CUP/assets/83874472/cd442cb3-234d-4fa1-a1b5-2f9125b31909)
